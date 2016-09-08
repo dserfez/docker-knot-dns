@@ -1,0 +1,1 @@
+docker build --rm -t cycomf/knot-dns .
